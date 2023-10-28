@@ -1,0 +1,16 @@
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\bin\Debug\Pr-21.102-kulakova-1.exe.config
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\bin\Debug\Pr-21.102-kulakova-1.exe
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\bin\Debug\Pr-21.102-kulakova-1.pdb
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.csproj.AssemblyReference.cache
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\MainWindow.g.cs
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\App.g.cs
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1_MarkupCompile.cache
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1_MarkupCompile.lref
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\MainWindow.baml
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.g.resources
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr_21._102_kulakova_1.Properties.Resources.resources
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.csproj.GenerateResource.cache
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.csproj.CoreCompileInputs.cache
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.exe
+C:\Users\user123\source\repos\Pr-21.102-kulakova-1\Pr-21.102-kulakova-1\obj\Debug\Pr-21.102-kulakova-1.pdb

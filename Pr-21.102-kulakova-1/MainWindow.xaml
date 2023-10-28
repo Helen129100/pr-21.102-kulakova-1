@@ -1,0 +1,17 @@
+﻿<Window x:Class="Pr_21._102_kulakova_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pr_21._102_kulakova_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btncount" Content="произвести расчет " HorizontalAlignment="Left" Margin="289,276,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Content="Пр-21.102_кулакова_1"  HorizontalAlignment="Left" Margin="164,62,0,0" VerticalAlignment="Top"/>
+        <TextBox MaxLength="12" x:Name="tb_number" HorizontalAlignment="Left" Margin="276,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbsummary" Content="" HorizontalAlignment="Left" Margin="325,338,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="258,0,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center"/>
+
+    </Grid>
+</Window>
